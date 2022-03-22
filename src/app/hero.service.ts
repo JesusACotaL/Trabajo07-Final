@@ -17,6 +17,16 @@ export class HeroService {
     return heroes;
   }
 
+  getHeroesSorted(): Observable<Hero[]>{
+    const heroes = of(HEROES);
+    heroes.forEach(heroe => {
+      heroe.sort((a,b) => {
+        return b.score - a.score;
+      });
+    });
+    return heroes;
+  }
+
   getHero(id: number): Observable<Hero> {
     const hero = HEROES.find(h => h.id === id)!;
     this.messageService.add(`HeroService: fetched hero id=${id}`);
