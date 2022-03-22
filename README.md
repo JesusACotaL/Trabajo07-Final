@@ -1,5 +1,9 @@
 # Trabajo07Final
 
+Despues de mucho intentarlo no logré subir la página a Heroku siendo que ya no me marcaba error. Grabé un video para demostrar el funcionamiento de la página y el código
+
+LINK DE LA PÁGINA FUNCIONANDO: https://youtu.be/lK_ioFllah4
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
