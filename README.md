@@ -1,6 +1,8 @@
 # Trabajo07Final
 LINK DE LA PÁGINA FUNCIONANDO: https://trabajo07-heroes.herokuapp.com/dashboard
 
+VIDEO : https://www.youtube.com/watch?v=lK_ioFllah4
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
